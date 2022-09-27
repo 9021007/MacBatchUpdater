@@ -1,4 +1,4 @@
-# macUpdateBrewPorts
+# MacBatchUpdater
 A combo package updater for various package managers
 
 - Homebrew
