@@ -1,2 +1,7 @@
 # macUpdateBrewPorts
-A combo package updater for Homebrew and MacPorts
+A combo package updater for various package managers
+
+Homebrew
+MacPorts
+pip
+npm
