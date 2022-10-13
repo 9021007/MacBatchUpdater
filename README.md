@@ -5,3 +5,5 @@ A combo package updater for various package managers
 - MacPorts
 - pip
 - npm
+
+Not actively maintained
